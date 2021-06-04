@@ -1,3 +1,0 @@
-'*':
-'saltstackminion*':
- - apache:
